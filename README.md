@@ -46,4 +46,4 @@ Visualize the actual vs. predicted speeds using Matplotlib to assess the model's
 
 Visualization
 The following graph illustrates the actual vs. predicted vehicle speeds, showcasing the model's predictive accuracy.
-![Actual Speed vs Predicted Speed](./images/Improved_Speed_Prediction.png)
+![Actual Speed vs Predicted Speed](./images/Improved_Speed_Prediction.jpg)
