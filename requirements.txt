@@ -1,0 +1,7 @@
+catboost==1.2.5
+matplotlib==3.8.1
+mlxtend==0.23.1
+numpy==2.0.1
+pandas==2.2.2
+scikit_learn==1.4.2
+xgboost==2.1.1
